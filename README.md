@@ -1,10 +1,10 @@
 ## Hi there, I'm Edward Olmos! 👋
 
-### 💻 I’m currently building web apps mainly with the Mongo, Express, React, Node.js (MERN) stack
+💻 I’m currently building web apps mainly with the Mongo, Express, React, Node.js (MERN) stack
 
-### 🔭 Software Engineer, MS Graduate - California State University of Northridge
+🔭 Software Engineer, MS Graduate - California State University of Northridge
 
-### ⚡ Fun facts: 
+⚡ Fun facts: 
 - I'm a self taught guitarist
 - I enjoy gamming and watching movies
 
