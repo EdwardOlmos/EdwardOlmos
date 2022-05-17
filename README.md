@@ -4,7 +4,7 @@
 
 🔭 Software Engineer, MS Graduate - California State University of Northridge
 
-⚡ Fun facts: I'm a self taught guitarist and I enjoy gamming/watching movies 🎮
+⚡ Fun facts: I'm a self taught guitarist 🎸, I enjoy gamming/watching movies 🎮, and I learned how to surf in Hawaii 🏄
 
 <!--
 **EdwardOlmos/EdwardOlmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
